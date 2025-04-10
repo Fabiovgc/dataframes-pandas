@@ -32,7 +32,8 @@ Automatizar tarefas repetitivas no contexto empresarial
 ## 🚀 Como Executar
 Clone o repositório:
 
-git clone https://github.com/Fabiovgc/dataframes-pandas.git
+> git clone https://github.com/Fabiovgc/dataframes-pandas.git
+
 Instale as dependências:
 
 > pip install pandas
