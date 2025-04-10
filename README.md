@@ -35,5 +35,6 @@ Clone o repositório:
 git clone https://github.com/Fabiovgc/dataframes-pandas.git
 Instale as dependências:
 
-> pip install pandas plotly pywin32 openpyxl
+> pip install pandas
+
 Navegue até a pasta do projeto desejado e execute o script Python correspondente.
